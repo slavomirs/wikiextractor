@@ -50,3 +50,6 @@ G*
 Session.vim
 .netrwhist
 *~
+
+data/*
+.DS_Store
